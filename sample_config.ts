@@ -1,4 +1,5 @@
 export default {
+  // Edit config.ts to include your LinkedIn credentials and other necessary details.
   // LOGIN DETAILS
   LINKEDIN_EMAIL: "",
   LINKEDIN_PASSWORD: "",
